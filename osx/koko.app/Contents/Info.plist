@@ -5,9 +5,9 @@
 	<key>BuildMachineOSBuild</key>
 	<string>13F34</string>
 	<key>CFBundleDisplayName</key>
-	<string>Koko</string>
+	<string>koko</string>
 	<key>CFBundleExecutable</key>
-	<string>Koko</string>
+	<string>koko</string>
 	<key>CFBundleIconFile</key>
 	<string>atom.icns</string>
 	<key>CFBundleIdentifier</key>
@@ -15,7 +15,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Koko</string>
+	<string>koko</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleVersion</key>
